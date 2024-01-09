@@ -1,0 +1,164 @@
+
+<html>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-66MZLWS0PQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-66MZLWS0PQ');
+</script>
+	<title> Object Oriented Programming Lab </title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+.blink {
+  animation: blink 1s steps(1, end) infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+td {
+  text-align: center;
+}
+</style>
+</head>
+
+<body bgcolor=ivory>
+	<h1> <center> Object Oriented Programming Lab </center> </h1>
+	<h2> <center> Autumn 2023 </center> </h2>
+	<hr color=blue>
+
+	<h2> Announcements </h2>
+		<ul>
+			<li> <span class = "blink"> New </span> Lab Copy writing instructions <a href="Docs/labcopy.pdf">link</a></li>
+			<li> <span class = "blink"> New </span> Lab Copy font page <a href="Docs/frontpage.pdf">link</a></li>
+			<li> Syllabus for the theory can be found <a href="../DSA/res/docs/DSA_Syllabus.pdf">here</a> </li>
+			<li> Classes will start in July 2023 </li>
+			<!--<li> <span class = "blink"> Updated </span> Lecture slides and resources </li>-->
+		</ul>
+	<br>
+
+
+	<h2>Class Details</h2>
+		<ul> 
+		   <li> <i>Instructors</i>: Soumyendu S Bandyopadhyay, Koushik Dutta</li>
+		   <li> <i>Venue</i>: IT Lab 1</li>
+		   <li> <i>Time</i>: 1 lab session per week, check routine on dept. website</li>
+		   
+		</ul>
+
+	<h2> Books  </h2>
+		<ul> 
+			<li><a href="">  Barry A. Burd, <a href="https://www.amazon.in/Beginning-Programming-Java-Dummies-5ed/dp/8126570865">Beginning Programming with Java for Dummies, 5ed</li>
+			<li> E Balagurusamy, <a href="https://www.amazon.in/Programming-Java-Balagurusamy/dp/9353162343"><i>Programming with Java | 6th Edition</i></a>, Tata McGraw-Hill.</li>
+			<li> Herbert Schildt, <a href="https://www.amazon.in/Java-Complete-Reference-Herbert-Schildt/dp/9339212096"><i>Java: The Complete Reference</i></a>, Tata McGraw-Hill.</li>
+			
+		</ul>
+
+	<h2> Assignment Details </h2>
+	<table  style="width:70%">
+	<tr>
+		<th >No.    </th>
+		<th >Title  </th>
+		<th >Duration   </th>
+		<th >Date   </th>
+		<th >Link   </th>
+		
+	</tr>
+	<tr>
+		<td >1</td>
+		<td >Introduction </td>
+		<td >1 week</td>
+		<td >18JUL23-24JUL23</td>
+		<td ><a href="Assignment/Day 2.pdf" target="_blank">link</a></td>
+		
+
+	</tr>
+	<tr>
+		<td >2</td>
+		<td >Operators and Datatypes </td>
+		<td >1 week</td>
+		<td >25JUL23-31JUL23</td>
+		<td ><a href="Assignment/Day 2.pdf" target="_blank">link</a></td>
+		
+
+	</tr>
+	<tr>
+		<td >3</td>
+		<td >Decision Making</td>
+		<td >1 week</td>
+		<td >01AUG23-07AUG23</td>
+		<td ><a href="Assignment/Day 3.pdf" target="_blank">link</a></td>
+	</tr>
+	<tr>
+		<td >4</td>
+		<td >Decision Making and Looping</td>
+		<td >1 week</td>
+		<td >07AUG23-14AUG23</td>
+		<td ><a href="Assignment/Day 4.pdf" target="_blank">link</a></td>
+	</tr>
+<tr>
+		<td >5</td>
+		<td >Arrays and Matrices</td>
+		<td >1 week</td>
+		<td >14AUG23-21AUG23</td>
+		<td ><a href="Assignment/Day 5.pdf" target="_blank">link</a></td>
+	</tr>
+<tr>
+		<td >6</td>
+		<td >Class and Methods</td>
+		<td >1 week</td>
+		<td >29AUG23-1SEPT23</td>
+		<td ><a href="Assignment/Day 6.pdf" target="_blank">link</a></td>
+	</tr>
+<tr>
+		<td >7</td>
+		<td >Classes, Methods, Constructor</td>
+		<td >1 week</td>
+		<td >05OCT23-13OCT23</td>
+		<td ><a href="Assignment/Day 7.pdf" target="_blank">link</a></td>
+	</tr>
+	
+	</table>
+
+	<br/>
+	<i>Assignment Marks Obtained Links </i>
+	<ul> 
+		<li> <a href=https://iemcollege-my.sharepoint.com/:x:/g/personal/soumyendusekhar_bandyopadhyay_iem_edu_in/EevE37Ta5WxOv35PdpwX-fwBvspja7FohWEOPZEj0MDN1A?e=n4oTct target="_blank">IT Marks</a> </li>
+		<li> <a href=https://iemcollege-my.sharepoint.com/:x:/g/personal/soumyendusekhar_bandyopadhyay_iem_edu_in/EYkglxLkSZ1HpXrNfmCCMBEB_gQxwI6hZtF42tRuULSNcg?e=HcEjLz target="_blank">CSE IoTCSBT Marks</a> </li> 
+		<li> <a href=https://iemcollege-my.sharepoint.com/:x:/g/personal/soumyendusekhar_bandyopadhyay_iem_edu_in/EQwuuyc1x6VHtZe0jPt7DfoBD-EGonN2JuZ-yQqRcCSJLg?e=mQpYAd target="_blank">CSE IoT Marks</a> </li>
+	</ul>
+	<i>Week Tracker </i>
+	<ul> 
+		<li> <a href=https://iemcollege-my.sharepoint.com/:x:/g/personal/soumyendusekhar_bandyopadhyay_iem_edu_in/EbK8ExJZ00xFjNuGPHQuMqcBEsKQsTiFyfCk_Dv6Uxj_7A?e=FKc2rz target="_blank">Week Tracker</a> </li>
+		
+	</ul>
+	<h2> Helpful Resourses </h2>
+
+	<ul>
+		<li><a href="https://www.guru99.com/linux-commands-cheat-sheet.html" target="_blank">Link</a> to Linux terminal commands cheatsheet.</li>
+		<li><a href="https://cseweb.ucsd.edu/classes/fa09/cse141/tutorial_gcc_gdb.html" target="_blank">Link1</a> and <a href="https://www.linuxtopia.org/online_books/an_introduction_to_gcc/gccintro_9.html"> Link2</a> to basic usage of gcc.</li>
+		
+	</ul>
+
+</body>
+</html>
