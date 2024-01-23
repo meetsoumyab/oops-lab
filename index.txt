@@ -10,7 +10,7 @@
 
   gtag('config', 'G-66MZLWS0PQ');
 </script>
-	<title> ABCDE </title>
+	<title> Object Oriented Programming Lab </title>
 <style>
 table, th, td {
   border: 1px solid black;
@@ -43,7 +43,7 @@ td {
 </head>
 
 <body bgcolor=ivory>
-	<h1> <center> .......LAB </center> </h1>
+	<h1> <center> Object Oriented Programming Lab </center> </h1>
 	<h2> <center> Autumn 2023 </center> </h2>
 	<hr color=blue>
 
