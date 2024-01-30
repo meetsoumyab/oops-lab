@@ -1,4 +1,5 @@
 
+
 <html>
 <head>
 <!-- Google tag (gtag.js) -->
@@ -43,8 +44,8 @@ td {
 </head>
 
 <body bgcolor=ivory>
-	<h1> <center> Object Oriented Programming Lab...................... </center> </h1>
-	<h2> <center> Autumn 2024 </center> </h2>
+	<h1> <center> Advance Programming (Object Oriented Programming Lab) </center> </h1>
+	<h2> <center> Spring 2024 </center> </h2>
 	<hr color=blue>
 
 	<h2> Announcements </h2>
@@ -60,7 +61,7 @@ td {
 
 	<h2>Class Details</h2>
 		<ul> 
-		   <li> <i>Instructors</i>: Soumyendu S Bandyopadhyay, Nilkantha Garain</li>
+		   <li> <i>Instructors</i>: Soumyendu S Bandyopadhyay, Koushik Dutta, Arpan Goswami</li>
 		   <li> <i>Venue</i>: IT Lab 1</li>
 		   <li> <i>Time</i>: 1 lab session per week, check routine on dept. website</li>
 		   
@@ -81,25 +82,29 @@ td {
 		<th >Title  </th>
 		<th >Duration   </th>
 		<th >Date   </th>
+		<th >Due Date   </th>
 		<th >Link   </th>
 		
 	</tr>
+
 	<tr>
 		<td >1</td>
-		<td >Introduction </td>
+		<td >Assignment-1 </td>
 		<td >1 week</td>
-		<td >18JUL23-24JUL23</td>
-		<td ><a href="Assignment/Day 2.pdf" target="_blank">link</a></td>
+		<td >24.01.24</td>
+		<td >1 week from the start date</td>
+		<td ><a href="Assignment/Java-1.pdf" target="_blank">link</a></td>
 		
 
 	</tr>
+
 	<tr>
 		<td >2</td>
-		<td >Operators and Datatypes </td>
+		<td >Assignment-2 </td>
 		<td >1 week</td>
-		<td >25JUL23-31JUL23</td>
+		<td >31.01.24-7.02.24</td>
 		<td ><a href="Assignment/Day 2.pdf" target="_blank">link</a></td>
-		
+<!--		
 
 	</tr>
 	<tr>
@@ -137,7 +142,7 @@ td {
 		<td >05OCT23-13OCT23</td>
 		<td ><a href="Assignment/Day 7.pdf" target="_blank">link</a></td>
 	</tr>
-	
+-->
 	</table>
 
 	<br/>
